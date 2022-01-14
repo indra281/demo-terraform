@@ -7,7 +7,7 @@ sudo pip install Flask
 sudo pip install bson
 sudo pip install pymongo
 
-##### Indtalll code Deploy agent ###########
+#### deploy flask app #####
 
 git clone https://github.com/indra281/FlaskWithMongoDB.git
 cd FlaskWithMongoDB
